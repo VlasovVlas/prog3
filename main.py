@@ -3,7 +3,7 @@ n4, n5, n6, a2 = map(int, input('').split())
 n7, n8, n9, a3 = map(int, input('').split())
 
 if n1 == 1 or n2 == 1 or n3 == 1 or n1 == -1 or n2 == -1 or n3 == -1:
-    
+
 
 
 
