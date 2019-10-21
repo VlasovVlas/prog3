@@ -19,6 +19,7 @@ if n1 == 1 or n2 == 1 or n3 == 1:
             a3 = a3 - a1
             print(n7, n8, n9, a3)
             print()
+            exit()
 
     elif n2 == 1:
         while n5 != 0:
@@ -36,6 +37,7 @@ if n1 == 1 or n2 == 1 or n3 == 1:
             a3 = a3 - a1
             print(n7, n8, n9, a3)
             print()
+            exit()
 
     elif n3 == 1:
         while n6 != 0:
@@ -53,6 +55,7 @@ if n1 == 1 or n2 == 1 or n3 == 1:
             a3 = a3 - a1
             print(n7, n8, n9, a3)
             print()
+            exit()
 
 elif n4 == 1 or n5 == 1 or n6 == 1:
     if n4 == 1:
@@ -71,6 +74,7 @@ elif n4 == 1 or n5 == 1 or n6 == 1:
             a3 = a3 - a2
             print(n7, n8, n9, a3)
             print()
+            exit()
 
     elif n5 == 1:
         while n2 != 0:
@@ -88,6 +92,7 @@ elif n4 == 1 or n5 == 1 or n6 == 1:
             a3 = a3 - a2
             print(n7, n8, n9, a3)
             print()
+            exit()
 
     elif n6 == 1:
         while n3 != 0:
@@ -105,6 +110,7 @@ elif n4 == 1 or n5 == 1 or n6 == 1:
             a3 = a3 - a2
             print(n7, n8, n9, a3)
             print()
+            exit()
 
 elif n7 == 1 or n8 == 1 or n9 == 1:
     if n7 == 1:
@@ -123,6 +129,7 @@ elif n7 == 1 or n8 == 1 or n9 == 1:
             a2 = a2 - a3
             print(n4, n5, n6, a2)
             print()
+            exit()
 
     elif n8 == 1:
         while n2 != 0:
@@ -140,6 +147,7 @@ elif n7 == 1 or n8 == 1 or n9 == 1:
             a2 = a2 - a3
             print(n4, n5, n6, a2)
             print()
+            exit()
 
     elif n9 == 1:
         while n3 != 0:
@@ -157,3 +165,4 @@ elif n7 == 1 or n8 == 1 or n9 == 1:
             a2 = a2 - a3
             print(n4, n5, n6, a2)
             print()
+            exit()
